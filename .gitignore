@@ -1,0 +1,22 @@
+# Fichiers objets et binaires
+*.o
+*.out
+*.exe
+Sudoku
+
+# Dossiers de build
+build/
+bin/
+/cmake-build-*/
+
+# Dossiers et fichiers IDE
+.vscode/
+.idea/
+
+# Fichiers temporaires
+*~
+*.tmp
+*.swp
+
+# Logs
+*.log
