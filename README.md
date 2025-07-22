@@ -153,4 +153,6 @@ gcc -std=c11 -Wall -Wextra -I. *.c -o Sudoku
 ./Sudoku
 ```
 
-*Fin du README*
+## Licence
+
+Projet académique - Université de Poitiers (2025)
